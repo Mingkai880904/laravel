@@ -1,2 +1,2 @@
 # laravel
-laravel練習
+laravel專案練習-CRUD+User authentication(會員驗證)
